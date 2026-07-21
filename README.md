@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Visothan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Visothan/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Visothan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -48,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Visothan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
