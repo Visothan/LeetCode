@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Visothan/LeetCode/tree/master/0198-house-robber) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Visothan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Visothan/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Visothan/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Visothan/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
