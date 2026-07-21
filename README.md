@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Visothan/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Visothan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
