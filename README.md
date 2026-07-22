@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Visothan/LeetCode/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Visothan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Visothan/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Visothan/LeetCode/tree/master/0198-house-robber) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Visothan/LeetCode/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Visothan/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Visothan/LeetCode/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Visothan/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Visothan/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Visothan/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Visothan/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
