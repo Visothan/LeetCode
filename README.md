@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Visothan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Visothan/LeetCode/tree/master/0213-house-robber-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Visothan/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Visothan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Visothan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Visothan/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Visothan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Visothan/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Visothan/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Visothan/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Visothan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Visothan/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Visothan/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -72,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Visothan/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Visothan/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Visothan/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Visothan/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Visothan/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Visothan/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
