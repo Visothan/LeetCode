@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Visothan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Visothan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Visothan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Visothan/LeetCode/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Visothan/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Visothan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Visothan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Visothan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Visothan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Visothan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Visothan/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Visothan/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Visothan/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Visothan/LeetCode/tree/master/0044-wildcard-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Visothan/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
