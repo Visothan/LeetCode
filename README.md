@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Visothan/LeetCode/tree/master/0035-search-insert-position) |
 | [0198-house-robber](https://github.com/Visothan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Visothan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Visothan/LeetCode/tree/master/0322-coin-change) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Visothan/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Visothan/LeetCode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Visothan/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Visothan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
