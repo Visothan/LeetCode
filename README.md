@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Visothan/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Visothan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Visothan/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Visothan/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Visothan/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Visothan/LeetCode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Visothan/LeetCode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Visothan/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Visothan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
